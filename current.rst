@@ -16,6 +16,8 @@ TODO
 
     4) setup neohermes project. 
 
+    5) work on java practice for FDM
+
 
 PROJECTS
 ********
