@@ -14,7 +14,38 @@ TODO
 
     3) Iterate skimmer to first use. (Send to Ryan).
 
-    4) 
+    4) setup neohermes project. 
+
+
+PROJECTS
+********
+
+    1) skimmer
+
+    2) .rst to desktop on-the-fly reader (python/kivy or maybe java for practice)
+
+    3) tWC
+        
+        a) deploy
+
+        b) hoopt. animation sequence
+
+        c) Neohermes desktop (python/kivy and/or java)
+            
+            i) Kivy interactive display -- touch splash expressive
+            interactivity to give users the ability to control their
+            surroundings and their care-givers, as needed.
+
+        d) work with Krempels Center and Friends Project, as well as other
+        local disability and personal help resources
+
+        e) Deployment and funding!!!!
+
+        f) Presentative (possibly roll to personal)
+
+        g) DNA music (possibly roll to personal)
+
+    4) JOB JOB JOB JOB JOB
 
 New programs to install?
 ************************
